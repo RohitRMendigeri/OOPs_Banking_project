@@ -1,4 +1,4 @@
-# 💳 Bank Management System (OOP Project)
+# OOPs_Banking_project
 
 A fully functional banking system implemented in **C++17**, demonstrating core **Object-Oriented Programming (OOP)** principles with real-world banking operations.
 
